@@ -1,12 +1,4 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
-## Project Quirks/ Things that don't work
-* example
-* example
-* example
+# [Leif]
+## [Assignment 2]
+## [Submission date: 09/19/24]
+
